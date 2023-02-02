@@ -1,0 +1,17 @@
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\bin\Debug\net6.0\Lineage.exe
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\bin\Debug\net6.0\Lineage.deps.json
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\bin\Debug\net6.0\Lineage.runtimeconfig.json
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\bin\Debug\net6.0\Lineage.dll
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\bin\Debug\net6.0\Lineage.pdb
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\obj\Debug\net6.0\Lineage.csproj.AssemblyReference.cache
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\obj\Debug\net6.0\Lineage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\obj\Debug\net6.0\Lineage.AssemblyInfoInputs.cache
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\obj\Debug\net6.0\Lineage.AssemblyInfo.cs
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\obj\Debug\net6.0\Lineage.csproj.CoreCompileInputs.cache
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\obj\Debug\net6.0\Lineage.dll
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\obj\Debug\net6.0\refint\Lineage.dll
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\obj\Debug\net6.0\Lineage.pdb
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\obj\Debug\net6.0\Lineage.genruntimeconfig.cache
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\obj\Debug\net6.0\ref\Lineage.dll
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\obj\Debug\net6.0\Interop.WMPLib.dll
+D:\Programs\Visual Studio\Repos\Lineage\Lineage\obj\Debug\net6.0\Lineage.csproj.ResolveComReference.cache
